@@ -1,0 +1,42 @@
+[
+    {
+        "description": "Ingreso 1: ",
+        "amount": 2584.23
+    },
+    {
+        "description": "Ingreso 2: ",
+        "amount": 9334.8
+    },
+    {
+        "description": "Ingreso 3: ",
+        "amount": 3495.22
+    },
+    {
+        "description": "Ingreso 4: ",
+        "amount": 7300.09
+    },
+    {
+        "description": "Ingreso 5: ",
+        "amount": 4640.64
+    },
+    {
+        "description": "Ingreso 6: ",
+        "amount": 10586.33
+    },
+    {
+        "description": "Ingreso 7: ",
+        "amount": 10039.9
+    },
+    {
+        "description": "Ingreso 8: ",
+        "amount": 11737.8
+    },
+    {
+        "description": "Ingreso 9: ",
+        "amount": 12937.33
+    },
+    {
+        "description": "Ingreso 10: ",
+        "amount": 3155.33
+    }
+]
